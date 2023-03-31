@@ -1,6 +1,7 @@
 ///This code measure the length of the string. Which are EVERYTHING inside "" (except the "" themselves)
 ///Yeah that also includes the ``` since this is from a Discord message which are based on track listing 
 ///of the album The Stanley Parable: Ultra Deluxe – The Complete Soundtrack
+///https://crowscrowscrows.bandcamp.com/album/the-stanley-parable-ultra-deluxe-the-complete-soundtrack
 fn main() {
     let track_listing = "```markdown
 1. Kevan Brighting - Intro 00:05
